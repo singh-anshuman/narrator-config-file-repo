@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add53f39-736f-454d-a747-70b53c656a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/order/order-qa.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/order/order.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/src/main/java/com/anshuman/narrator/config/NarratorConfigServerStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/user/user-qa.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/user/user-uat.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/user/user.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-spring-config-file-repo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-spring-config-file-repo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/service/UserService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/UserManagementStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="140">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,16 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#867#868#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -96,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="140">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#406#407#0" expanded="true" />
@@ -176,6 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,8 +249,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +258,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552207121694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552216193678" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -341,18 +318,19 @@
       <workItem from="1552199011663" duration="1181000" />
       <workItem from="1552200361473" duration="2055000" />
       <workItem from="1552204754456" duration="1699000" />
-      <workItem from="1552206565823" duration="543000" />
+      <workItem from="1552206565823" duration="831000" />
+      <workItem from="1552224820310" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8705000" />
+    <option name="totallyTimeSpent" value="9592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27389902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27336198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,12 +399,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/UserManagementStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -438,42 +440,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/UserManagementStarter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/usermanagement/user/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="260">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee350a8-cd96-4f52-9e2f-f95010dc0108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/order-qa.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/order.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anshuman/narrator/config/NarratorConfigServerStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-qa.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-uat.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/java/com/anshuman/ordermanagement/order/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-order-api-config-file-repo/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/src/main/java/com/anshuman/usermanagement/user/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/src/main/java/com/anshuman/usermanagement/user/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/src/main/java/com/anshuman/usermanagement/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../narrator-user-api-config-file-repo/src/main/java/com/anshuman/usermanagement/user/service/UserService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/narrator/config/NarratorConfigServerStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="200">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,16 +44,16 @@
         <entry file="file://$PROJECT_DIR$/order/order.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/order/order-qa.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="10" />
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -86,16 +71,16 @@
         <entry file="file://$PROJECT_DIR$/user/user.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user/user-qa.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -104,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/user/user-uat.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -142,6 +127,7 @@
         <option value="$PROJECT_DIR$/config-repo/order-mgmt/order.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/user/user-qa.properties" />
+        <option value="$PROJECT_DIR$/order/order-qa.properties" />
       </list>
     </option>
   </component>
@@ -163,8 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +214,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552207121707" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552225448579" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -286,12 +272,13 @@
       <workItem from="1552115161548" duration="921000" />
       <workItem from="1552201579152" duration="915000" />
       <workItem from="1552204754573" duration="1699000" />
-      <workItem from="1552206566319" duration="542000" />
+      <workItem from="1552206566319" duration="872000" />
+      <workItem from="1552224820527" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4847000" />
+    <option name="totallyTimeSpent" value="5775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
@@ -343,20 +330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order/order.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/order-qa.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -364,34 +337,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/narrator/config/NarratorConfigServerStarter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user/user.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user/user-uat.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user/user-qa.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anshuman/narrator/config/NarratorConfigServerStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/order.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/order-qa.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
