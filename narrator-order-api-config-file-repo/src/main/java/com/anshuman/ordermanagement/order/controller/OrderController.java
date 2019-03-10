@@ -2,6 +2,7 @@ package com.anshuman.ordermanagement.order.controller;
 
 import com.anshuman.ordermanagement.order.model.Order;
 import com.anshuman.ordermanagement.order.service.OrderService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,6 +16,7 @@ import java.util.List;
 @RequestMapping("/order-mgmt/v1")
 public class OrderController {
 
+    @Autowired
     private OrderService orderService;
 
     public OrderService getOrderService() {
